@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_penyakit_dinkes" value="name:id_penyakit;datatype:int,name:nama_penyakit;datatype:string,name:kategori;datatype:string,name:sebab;datatype:blob,name:tindakan;datatype:blob,name:korelasi;datatype:string,name:presentase_penderita;datatype:int,name:persebaran_penyakit;datatype:string,name:prevelence;datatype:string,name:wilayah_penyakit;datatype:string" />
+</info>
